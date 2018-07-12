@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1531411441 source:c:\users\falaniz\desktop\2do parcial lab\fede\segundoparcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531404621 c:\users\falaniz\desktop\2do parcial lab\fede\segundoparcial\arraylist.h
+
+1531414283 source:c:\users\falaniz\desktop\2do parcial lab\fede\segundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1531414283 c:\users\falaniz\desktop\2do parcial lab\fede\segundoparcial\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"string.h"
+
+1531414283 source:c:\users\falaniz\desktop\2do parcial lab\fede\segundoparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+
+1531435653 source:d:\alaniz federicio\segundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1531433388 d:\alaniz federicio\segundoparcial\arraylist.h
+
+1531434250 d:\alaniz federicio\segundoparcial\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"string.h"
+
+1531435653 source:d:\alaniz federicio\segundoparcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531434250 source:d:\alaniz federicio\segundoparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+
